@@ -1,0 +1,18 @@
+.a{background-color: rgb(225, 219, 219);font-family:nunito sans;}
+.aa{height:80px;text-align: center;background-color: rgb(170, 99, 115);}
+.aa h1{margin:3px;color:black;font-weight: bold;font-size:60px;}
+.aa span{color:white;font-weight: lighter;font-size:30px;}
+.aa ul li{display: inline-block;margin:15px;margin-top:30px;}
+.b{color:white;font-size: 19px;}
+.b:hover{text-decoration: none;color:black;font-weight:bold;font-family:calibri;font-size:20px;}
+.bb span{color:rgb(152, 64, 85)}
+.c{margin-top: 150px;}
+#about h1{color:rgb(152, 64, 85);text-decoration: underline;text-decoration-color: rgba(152, 64, 85, 0.646);text-align: center;}
+#about h5{font-family:sans-serif;color:rgb(109, 99, 99);font-weight: bold;}
+#CONTACT H1{color:rgb(152, 64, 85);text-decoration: underline;text-align: center;}
+#contact h6{text-align: center;}
+#contact form{text-align: center;background-color: rgba(152, 64, 85, 0.486);margin-left:300px;margin-right:300px;padding:20px 10px 20px 10px;font-size: 17px;border-radius:5px 5px 5px 5px;font-weight: bold;}
+#contact button{background-color:black;color:white;box-shadow:5px 5px 5px rgba(0, 0, 0, 0.548);border-radius:4px 4px 4px 4px;}
+#portfolio h1{color:rgb(152, 64, 85);text-decoration: underline;text-decoration-color: rgba(152, 64, 85, 0.646);text-align: center;}
+#portfolio h6{font-family:sans-serif;color:rgb(109, 99, 99);font-weight: bold;}
+#portfolio{height:180px}
